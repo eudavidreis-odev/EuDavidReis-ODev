@@ -7,7 +7,7 @@ O meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge)](https://www.linkedin.com/in/eudavidreis-dev/) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge)](https://www.facebook.com/eudavidreis.dev)
 [![Site](https://img.shields.io/badge/Site-green?style=for-the-badge)](https://www.mrdev.tec.br)
-## Habilides
+## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?style=for-the-badge&logo=)
