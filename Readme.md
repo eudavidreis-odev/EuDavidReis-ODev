@@ -2,7 +2,7 @@
 # David Reis
 
 ## Sobre mim
-O meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, com foco nas linguagens Java e JavaScript. Tenho conhecimento de todo o ecossistema de uma aplicação, desde o desenvolvimento do backend até ao frontend, passando também pelo DevOps. Atualmente, trabalho como freelancer, mas estou à procura de uma oportunidade numa empresa do setor de desenvolvimento.
+Meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, com foco nas linguagens Java e JavaScript. Possuo amplo conhecimento em todo o ecossistema de uma aplicação, abrangendo desde o desenvolvimento do backend até o frontend, e também englobando práticas de DevOps. Atualmente, atuo como freelancer, porém, estou em busca de uma oportunidade junto a uma empresa do segmento de desenvolvimento.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge)](https://www.linkedin.com/in/eudavidreis-dev/) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge)](https://www.facebook.com/eudavidreis.dev)
