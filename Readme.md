@@ -23,7 +23,7 @@ Meu nome é David Augusto Monteiro dos Reis e sou um desenvolvedor FullStack, co
 ## Principais Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EuDavidReis-ODev&repo=scrapping-coinmarketcap-puppeteer&bg_color=fff&border_color=666&show_icons=true&icon_color=000&title_color=F33&text_color=000)](https://github.com/EuDavidReis-ODev/scrapping-coinmarketcap-puppeteer)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EuDavidReis-ODev&repo=css-glassmorphism-exemple&bg_color=fff&border_color=666&show_icons=true&icon_color=000&title_color=F33&text_color=000)](https://github.com/EuDavidReis-ODev/css-glassmorphism-exemple)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EuDavidReis-ODev&repo=Java_POO_UML&bg_color=fff&border_color=666&show_icons=true&icon_color=000&title_color=F33&text_color=000)](https://github.com/EuDavidReis-ODev/css-glassmorphism-exemple)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EuDavidReis-ODev&repo=ant-game-unity&bg_color=fff&border_color=666&show_icons=true&icon_color=000&title_color=F33&text_color=000)](https://github.com/EuDavidReis-ODev/ant-game-unity)
 
