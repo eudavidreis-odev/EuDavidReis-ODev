@@ -12,10 +12,10 @@ Atualmente, estou disponível no mercado e em busca de uma oportunidade para col
   <a href="https://www.linkedin.com/in/eudavidreis-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.mrdev.tec.br" target="_blank">
+  <a href="https://mrdev.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Site-4B0082?style=for-the-badge&logo=About.me&logoColor=white" alt="Meu Site"/>
   </a>
-  <a href="mailto:contato@mrdev.tec.br">
+  <a href="mailto:eudavidreis.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </div>
