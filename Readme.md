@@ -25,22 +25,22 @@ Atualmente, estou disponível no mercado e em busca de uma oportunidade para col
 ### 🛠️ Tech Stack
 <div style="display: inline_block"><br>
   <p><b>Backend</b></p>
-  <img align="center" alt="Java" height="30" width="40" src="./assets/icons/java.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="./assets/icons/spring.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="./assets/icons/nodejs.svg">
-  <img align="center" alt="Python" height="30" width="40" src="./assets/icons/python.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <br>
   <p><b>Frontend</b></p>
-  <img align="center" alt="JavaScript" height="30" width="40" src="./assets/icons/javascript.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="./assets/icons/typescript.svg">
-  <img align="center" alt="React" height="30" width="40" src="./assets/icons/react.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="./assets/icons/html5.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="./assets/icons/css3.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>
   <p><b>Databases & DevOps</b></p>
-  <img align="center" alt="MySQL" height="30" width="40" src="./assets/icons/mysql.svg">
-  <img align="center" alt="Git" height="30" width="40" src="./assets/icons/git.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="./assets/icons/docker.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
